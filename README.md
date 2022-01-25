@@ -1,3 +1,3 @@
 # animatedTemplateAos
-Template with animation on scroll woth using lib Aos
-https://danblik.github.io/animatedTemplateAos/
+Template with animation on scroll with using lib Aos
+# https://danblik.github.io/animatedTemplateAos/
